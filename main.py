@@ -1,4 +1,5 @@
 print("Hola")
+print("Hola")
 print("Hello")
 
 i = 0
